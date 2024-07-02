@@ -14,5 +14,5 @@ Technologies Used
 
 Node.js
 Express.js
-Ace Editor
+CodeMirror Editor
 RESTful APIs
