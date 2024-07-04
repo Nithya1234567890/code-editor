@@ -8,7 +8,7 @@ Output Display: Displays execution output directly on the webpage.
 
 Installation
 Clone the repo
-git clone https://github.com/yourusername/code-editor.git
+git clone (https://github.com/Nithya1234567890/code-editor.git)
 
 Technologies Used
 
